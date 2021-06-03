@@ -1,2 +1,3 @@
-# netflix-webpage-recriation :movie:
-Netflix recreation
+# Netflix Webpage
+
+Recreating the netflix webpage.
